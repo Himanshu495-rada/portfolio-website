@@ -1,0 +1,41 @@
+* {
+  font-family: "Montserrat", sans-serif;
+  font-size: 16px;
+}
+
+.navbar {
+  width: 100%;
+  height: 100px;
+  align-items: center;
+}
+
+.logo {
+  color: black;
+}
+
+.projects {
+  margin-right: 40px;
+  color: black;
+}
+
+.contact {
+  display: flex;
+  width: 105px;
+  height: 50px;
+  background-color: #5222d0;
+  align-items: center;
+  justify-content: center;
+  color: white;
+  margin-right: 40px;
+  border-radius: 6px;
+}
+
+.themeContainer {
+  border: 2px solid black;
+  border-radius: 100%;
+  padding: 2px 5px;
+}
+
+.ph {
+  font-size: 30px;
+}

@@ -1,0 +1,61 @@
+.container {
+  width: 100%;
+  height: calc(100vh - 132px);
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.left-container {
+  text-align: start;
+}
+
+.text-1 {
+  font-family: "Tinos", sans-serif;
+  font-size: 20px;
+  color: #151717;
+}
+
+.name {
+  font-family: "Montserrat", sans-serif;
+  font-size: 60px;
+  color: #5222d0;
+  font-weight: bold;
+  margin-top: 30px;
+}
+
+.summary {
+  font-family: "Montserrat", sans-serif;
+  font-size: 16px;
+  color: #1f2626;
+  margin-top: 30px;
+}
+
+.contact-btn {
+  font-family: "Montserrat", sans-serif;
+  width: 135px;
+  height: 45px;
+  background-color: #5222d0;
+  border-radius: 6px;
+  font-size: 16px;
+  color: #dbffff;
+  border: none;
+  margin-top: 30px;
+}
+
+.right-container {
+  height: 500px;
+}
+
+.down-arrow-conainer {
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  border: none;
+  background: none;
+}
+
+.downArrow {
+  font-size: 32px;
+}

@@ -1,0 +1,14 @@
+h5 {
+  color: #1f2626;
+  font-size: 16px;
+  font-family: "Montserrat", sans-serif;
+}
+img {
+  width: 120px;
+  height: 120px;
+}
+
+div {
+  max-width: fit-content;
+  max-height: fit-content;
+}

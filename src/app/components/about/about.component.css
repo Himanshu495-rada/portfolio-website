@@ -1,0 +1,25 @@
+section {
+  margin-top: 50px;
+}
+
+.heading {
+  margin-left: 25px;
+  font-size: 24px;
+  font-weight: bold;
+  font-family: "Montserrat", sans-serif;
+}
+
+.container {
+  width: 100%;
+}
+
+.design-line {
+  width: 5px;
+  height: 80px;
+  background-color: #5222d0;
+  margin-right: 20px;
+}
+
+.text {
+  width: 80%;
+}
