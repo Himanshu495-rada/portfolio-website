@@ -11,4 +11,5 @@ img {
 div {
   max-width: fit-content;
   max-height: fit-content;
+  text-align: center;
 }

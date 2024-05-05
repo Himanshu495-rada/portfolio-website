@@ -8,54 +8,74 @@ import { Component } from '@angular/core';
 export class SkillsComponent {
   images = [
     {
+      src: '../../../assets/java.svg',
+      alt: 'java logo',
+      title: 'JAVA',
+    },
+    {
       src: '../../../assets/javascript.png',
-      alt: 'Image 1',
+      alt: 'javascript logo',
       title: 'JAVASCRIPT',
     },
     {
       src: '../../../assets/typescript.png',
-      alt: 'Image 2',
+      alt: 'typescript logo',
       title: 'TYPESCRIPT',
     },
     {
+      src: '../../../assets/python.svg',
+      alt: 'python logo',
+      title: 'PYTHON',
+    },
+    {
       src: '../../../assets/mongodb.png',
-      alt: 'Image 3',
+      alt: 'mongodb logo',
       title: 'MONGO DB',
     },
     {
       src: '../../../assets/postgresql.png',
-      alt: 'Image 3',
+      alt: 'postgresql logo',
       title: 'POSTGRE SQL',
     },
     {
       src: '../../../assets/expressjs.png',
-      alt: 'Image 3',
+      alt: 'expressjs logo',
       title: 'EXPRESS JS',
     },
     {
       src: '../../../assets/docker.png',
-      alt: 'Image 3',
+      alt: 'docker logo',
       title: 'DOCKER',
     },
     {
       src: '../../../assets/reactjs.png',
-      alt: 'Image 3',
+      alt: 'reactjs logo',
       title: 'REACT JS',
     },
     {
       src: '../../../assets/reactnative.png',
-      alt: 'Image 3',
+      alt: 'reactnative logo',
       title: 'REACT NATIVE',
     },
     {
+      src: '../../../assets/angular.svg',
+      alt: 'angluarjs logo',
+      title: 'ANGULAR JS',
+    },
+    {
       src: '../../../assets/redux.png',
-      alt: 'Image 3',
+      alt: 'redux logo',
       title: 'REDUX',
     },
     {
       src: '../../../assets/git.png',
-      alt: 'Image 3',
+      alt: 'git logo',
       title: 'GIT',
+    },
+    {
+      src: '../../../assets/apache-kafka.svg',
+      alt: 'apachekafka logo',
+      title: 'APACHE KAFKA',
     },
   ];
 }
